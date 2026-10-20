@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. The Compose theme takes over at runtime;
+         this only governs the splash window and activity background. -->
+    <style name="Theme.AgonApp" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/app_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/nav_bar_color</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

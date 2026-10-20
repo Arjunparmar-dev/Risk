@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+color app_background
+color nav_bar_color
+mipmap ic_launcher
+string app_name
+style Theme.AgonApp

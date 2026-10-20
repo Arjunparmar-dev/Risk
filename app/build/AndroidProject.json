@@ -1,0 +1,1196 @@
+{
+    "namespace": "com.agon.app",
+    "variants": [
+        {
+            "testFixturesArtifact": null,
+            "mainArtifact": {
+                "minSdkVersion": {
+                    "codename": null,
+                    "apiLevel": 24
+                },
+                "generatedResourceFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\generated\\res\\resValues\\debug",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\generated\\res\\resValues\\debug",
+                        "name": "debug",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\generated\\res\\resValues\\debug",
+                        "parent": "E:\\Risk\\app\\build\\generated\\res\\resValues"
+                    }
+                ],
+                "compileTaskName": "compileDebugSources",
+                "abiFilters": [
+                    
+                ],
+                "generatedAssetsFolders": [
+                    
+                ],
+                "signingConfigName": "debug",
+                "sourceGenTaskName": "generateDebugSources",
+                "resGenTaskName": "generateDebugResources",
+                "assembleTaskOutputListingFile": {
+                    "directory": false,
+                    "file": false,
+                    "freeSpace": 0,
+                    "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\debug\\createDebugApkListingFileRedirect\\redirect.txt",
+                    "usableSpace": 0,
+                    "hidden": false,
+                    "totalSpace": 0,
+                    "path": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\debug\\createDebugApkListingFileRedirect\\redirect.txt",
+                    "name": "redirect.txt",
+                    "absolute": true,
+                    "absolutePath": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\debug\\createDebugApkListingFileRedirect\\redirect.txt",
+                    "parent": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\debug\\createDebugApkListingFileRedirect"
+                },
+                "maxSdkVersion": null,
+                "modelSyncFiles": [
+                    
+                ],
+                "assembleTaskName": "assembleDebug",
+                "ideSetupTaskNames": [
+                    "generateDebugSources"
+                ],
+                "desugaredMethodsFiles": [
+                    {
+                        "directory": false,
+                        "file": true,
+                        "freeSpace": 13479645184,
+                        "canonicalPath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                        "usableSpace": 13479645184,
+                        "hidden": false,
+                        "totalSpace": 278891139072,
+                        "path": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                        "name": "D8BackportedDesugaredMethods.txt",
+                        "absolute": true,
+                        "absolutePath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                        "parent": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed"
+                    }
+                ],
+                "bundleInfo": {
+                    "bundleTaskName": "bundleDebug",
+                    "apkFromBundleTaskOutputListingFile": {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\apk_from_bundle_ide_redirect_file\\debug\\createDebugApksFromBundleListingFileRedirect\\redirect.txt",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\apk_from_bundle_ide_redirect_file\\debug\\createDebugApksFromBundleListingFileRedirect\\redirect.txt",
+                        "name": "redirect.txt",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\apk_from_bundle_ide_redirect_file\\debug\\createDebugApksFromBundleListingFileRedirect\\redirect.txt",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\apk_from_bundle_ide_redirect_file\\debug\\createDebugApksFromBundleListingFileRedirect"
+                    },
+                    "bundleTaskOutputListingFile": {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\bundle_ide_redirect_file\\debug\\createDebugBundleListingFileRedirect\\redirect.txt",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\bundle_ide_redirect_file\\debug\\createDebugBundleListingFileRedirect\\redirect.txt",
+                        "name": "redirect.txt",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\bundle_ide_redirect_file\\debug\\createDebugBundleListingFileRedirect\\redirect.txt",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\bundle_ide_redirect_file\\debug\\createDebugBundleListingFileRedirect"
+                    },
+                    "apkFromBundleTaskName": "extractApksForDebug"
+                },
+                "privacySandboxSdkInfo": null,
+                "codeShrinker": null,
+                "generatedClassPaths": {
+                    
+                },
+                "signed": true,
+                "applicationId": "com.agon.app",
+                "classesFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes",
+                        "name": "classes",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\javac\\debug\\compileDebugJavaWithJavac"
+                    },
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debug",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debug",
+                        "name": "debug",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debug",
+                        "parent": "E:\\Risk\\app\\build\\tmp\\kotlin-classes"
+                    },
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debug\\processDebugResources\\R.jar",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debug\\processDebugResources\\R.jar",
+                        "name": "R.jar",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debug\\processDebugResources\\R.jar",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debug\\processDebugResources"
+                    }
+                ],
+                "generatedSourceFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debug\\out",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debug\\out",
+                        "name": "out",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debug\\out",
+                        "parent": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debug"
+                    }
+                ],
+                "targetSdkVersionOverride": {
+                    "codename": null,
+                    "apiLevel": 36
+                },
+                "bytecodeTransformations": [
+                    
+                ],
+                "testInfo": null
+            },
+            "androidTestArtifact": {
+                "minSdkVersion": {
+                    "codename": null,
+                    "apiLevel": 24
+                },
+                "generatedResourceFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\generated\\res\\resValues\\androidTest\\debug",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\generated\\res\\resValues\\androidTest\\debug",
+                        "name": "debug",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\generated\\res\\resValues\\androidTest\\debug",
+                        "parent": "E:\\Risk\\app\\build\\generated\\res\\resValues\\androidTest"
+                    }
+                ],
+                "compileTaskName": "compileDebugAndroidTestSources",
+                "abiFilters": [
+                    
+                ],
+                "generatedAssetsFolders": [
+                    
+                ],
+                "signingConfigName": "debug",
+                "sourceGenTaskName": "generateDebugAndroidTestSources",
+                "resGenTaskName": "generateDebugAndroidTestResources",
+                "assembleTaskOutputListingFile": {
+                    "directory": false,
+                    "file": false,
+                    "freeSpace": 0,
+                    "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\debugAndroidTest\\createDebugAndroidTestApkListingFileRedirect\\redirect.txt",
+                    "usableSpace": 0,
+                    "hidden": false,
+                    "totalSpace": 0,
+                    "path": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\debugAndroidTest\\createDebugAndroidTestApkListingFileRedirect\\redirect.txt",
+                    "name": "redirect.txt",
+                    "absolute": true,
+                    "absolutePath": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\debugAndroidTest\\createDebugAndroidTestApkListingFileRedirect\\redirect.txt",
+                    "parent": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\debugAndroidTest\\createDebugAndroidTestApkListingFileRedirect"
+                },
+                "maxSdkVersion": null,
+                "modelSyncFiles": [
+                    
+                ],
+                "assembleTaskName": "assembleDebugAndroidTest",
+                "ideSetupTaskNames": [
+                    "generateDebugAndroidTestSources"
+                ],
+                "desugaredMethodsFiles": [
+                    {
+                        "directory": false,
+                        "file": true,
+                        "freeSpace": 13479645184,
+                        "canonicalPath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                        "usableSpace": 13479645184,
+                        "hidden": false,
+                        "totalSpace": 278891139072,
+                        "path": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                        "name": "D8BackportedDesugaredMethods.txt",
+                        "absolute": true,
+                        "absolutePath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                        "parent": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed"
+                    }
+                ],
+                "bundleInfo": null,
+                "privacySandboxSdkInfo": null,
+                "codeShrinker": null,
+                "generatedClassPaths": {
+                    
+                },
+                "signed": true,
+                "applicationId": "com.agon.app.test",
+                "classesFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\javac\\debugAndroidTest\\compileDebugAndroidTestJavaWithJavac\\classes",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\javac\\debugAndroidTest\\compileDebugAndroidTestJavaWithJavac\\classes",
+                        "name": "classes",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\javac\\debugAndroidTest\\compileDebugAndroidTestJavaWithJavac\\classes",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\javac\\debugAndroidTest\\compileDebugAndroidTestJavaWithJavac"
+                    },
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debugAndroidTest",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debugAndroidTest",
+                        "name": "debugAndroidTest",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debugAndroidTest",
+                        "parent": "E:\\Risk\\app\\build\\tmp\\kotlin-classes"
+                    },
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debugAndroidTest\\processDebugAndroidTestResources\\R.jar",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debugAndroidTest\\processDebugAndroidTestResources\\R.jar",
+                        "name": "R.jar",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debugAndroidTest\\processDebugAndroidTestResources\\R.jar",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debugAndroidTest\\processDebugAndroidTestResources"
+                    }
+                ],
+                "generatedSourceFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugAndroidTest\\out",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugAndroidTest\\out",
+                        "name": "out",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugAndroidTest\\out",
+                        "parent": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugAndroidTest"
+                    }
+                ],
+                "targetSdkVersionOverride": {
+                    "codename": null,
+                    "apiLevel": 36
+                },
+                "bytecodeTransformations": [
+                    
+                ],
+                "testInfo": {
+                    "additionalRuntimeApks": [
+                        
+                    ],
+                    "animationsDisabled": false,
+                    "instrumentedTestTaskName": "connectedDebugAndroidTest",
+                    "execution": "HOST"
+                }
+            },
+            "unitTestArtifact": {
+                "modelSyncFiles": [
+                    
+                ],
+                "assembleTaskName": "assembleDebugUnitTest",
+                "compileTaskName": "compileDebugUnitTestSources",
+                "ideSetupTaskNames": [
+                    "createMockableJar"
+                ],
+                "runtimeResourceFolder": {
+                    "directory": false,
+                    "file": false,
+                    "freeSpace": 0,
+                    "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\java_res\\debugUnitTest\\processDebugUnitTestJavaRes\\out",
+                    "usableSpace": 0,
+                    "hidden": false,
+                    "totalSpace": 0,
+                    "path": "E:\\Risk\\app\\build\\intermediates\\java_res\\debugUnitTest\\processDebugUnitTestJavaRes\\out",
+                    "name": "out",
+                    "absolute": true,
+                    "absolutePath": "E:\\Risk\\app\\build\\intermediates\\java_res\\debugUnitTest\\processDebugUnitTestJavaRes\\out",
+                    "parent": "E:\\Risk\\app\\build\\intermediates\\java_res\\debugUnitTest\\processDebugUnitTestJavaRes"
+                },
+                "generatedClassPaths": {
+                    
+                },
+                "classesFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\javac\\debugUnitTest\\compileDebugUnitTestJavaWithJavac\\classes",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\javac\\debugUnitTest\\compileDebugUnitTestJavaWithJavac\\classes",
+                        "name": "classes",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\javac\\debugUnitTest\\compileDebugUnitTestJavaWithJavac\\classes",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\javac\\debugUnitTest\\compileDebugUnitTestJavaWithJavac"
+                    },
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debugUnitTest",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debugUnitTest",
+                        "name": "debugUnitTest",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debugUnitTest",
+                        "parent": "E:\\Risk\\app\\build\\tmp\\kotlin-classes"
+                    },
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debug\\processDebugResources\\R.jar",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debug\\processDebugResources\\R.jar",
+                        "name": "R.jar",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debug\\processDebugResources\\R.jar",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debug\\processDebugResources"
+                    }
+                ],
+                "generatedSourceFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugUnitTest\\out",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugUnitTest\\out",
+                        "name": "out",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugUnitTest\\out",
+                        "parent": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugUnitTest"
+                    }
+                ],
+                "bytecodeTransformations": [
+                    
+                ],
+                "mockablePlatformJar": {
+                    "directory": false,
+                    "file": true,
+                    "freeSpace": 13479645184,
+                    "canonicalPath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed\\android.jar",
+                    "usableSpace": 13479645184,
+                    "hidden": false,
+                    "totalSpace": 278891139072,
+                    "path": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed\\android.jar",
+                    "name": "android.jar",
+                    "absolute": true,
+                    "absolutePath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed\\android.jar",
+                    "parent": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed"
+                }
+            },
+            "instantAppCompatible": false,
+            "testedTargetVariant": null,
+            "hostTestArtifacts": {
+                "_unit_test_": {
+                    "modelSyncFiles": [
+                        
+                    ],
+                    "assembleTaskName": "assembleDebugUnitTest",
+                    "compileTaskName": "compileDebugUnitTestSources",
+                    "ideSetupTaskNames": [
+                        "createMockableJar"
+                    ],
+                    "runtimeResourceFolder": {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\java_res\\debugUnitTest\\processDebugUnitTestJavaRes\\out",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\java_res\\debugUnitTest\\processDebugUnitTestJavaRes\\out",
+                        "name": "out",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\java_res\\debugUnitTest\\processDebugUnitTestJavaRes\\out",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\java_res\\debugUnitTest\\processDebugUnitTestJavaRes"
+                    },
+                    "generatedClassPaths": {
+                        
+                    },
+                    "classesFolders": [
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\javac\\debugUnitTest\\compileDebugUnitTestJavaWithJavac\\classes",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\intermediates\\javac\\debugUnitTest\\compileDebugUnitTestJavaWithJavac\\classes",
+                            "name": "classes",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\intermediates\\javac\\debugUnitTest\\compileDebugUnitTestJavaWithJavac\\classes",
+                            "parent": "E:\\Risk\\app\\build\\intermediates\\javac\\debugUnitTest\\compileDebugUnitTestJavaWithJavac"
+                        },
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debugUnitTest",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debugUnitTest",
+                            "name": "debugUnitTest",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debugUnitTest",
+                            "parent": "E:\\Risk\\app\\build\\tmp\\kotlin-classes"
+                        },
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debug\\processDebugResources\\R.jar",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debug\\processDebugResources\\R.jar",
+                            "name": "R.jar",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debug\\processDebugResources\\R.jar",
+                            "parent": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debug\\processDebugResources"
+                        }
+                    ],
+                    "generatedSourceFolders": [
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugUnitTest\\out",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugUnitTest\\out",
+                            "name": "out",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugUnitTest\\out",
+                            "parent": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugUnitTest"
+                        }
+                    ],
+                    "bytecodeTransformations": [
+                        
+                    ],
+                    "mockablePlatformJar": {
+                        "directory": false,
+                        "file": true,
+                        "freeSpace": 13479645184,
+                        "canonicalPath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed\\android.jar",
+                        "usableSpace": 13479645184,
+                        "hidden": false,
+                        "totalSpace": 278891139072,
+                        "path": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed\\android.jar",
+                        "name": "android.jar",
+                        "absolute": true,
+                        "absolutePath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed\\android.jar",
+                        "parent": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed"
+                    }
+                }
+            },
+            "experimentalProperties": {
+                
+            },
+            "runTestInSeparateProcess": false,
+            "deviceTestArtifacts": {
+                "_android_test_": {
+                    "minSdkVersion": {
+                        "codename": null,
+                        "apiLevel": 24
+                    },
+                    "generatedResourceFolders": [
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\generated\\res\\resValues\\androidTest\\debug",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\generated\\res\\resValues\\androidTest\\debug",
+                            "name": "debug",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\generated\\res\\resValues\\androidTest\\debug",
+                            "parent": "E:\\Risk\\app\\build\\generated\\res\\resValues\\androidTest"
+                        }
+                    ],
+                    "compileTaskName": "compileDebugAndroidTestSources",
+                    "abiFilters": [
+                        
+                    ],
+                    "generatedAssetsFolders": [
+                        
+                    ],
+                    "signingConfigName": "debug",
+                    "sourceGenTaskName": "generateDebugAndroidTestSources",
+                    "resGenTaskName": "generateDebugAndroidTestResources",
+                    "assembleTaskOutputListingFile": {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\debugAndroidTest\\createDebugAndroidTestApkListingFileRedirect\\redirect.txt",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\debugAndroidTest\\createDebugAndroidTestApkListingFileRedirect\\redirect.txt",
+                        "name": "redirect.txt",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\debugAndroidTest\\createDebugAndroidTestApkListingFileRedirect\\redirect.txt",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\debugAndroidTest\\createDebugAndroidTestApkListingFileRedirect"
+                    },
+                    "maxSdkVersion": null,
+                    "modelSyncFiles": [
+                        
+                    ],
+                    "assembleTaskName": "assembleDebugAndroidTest",
+                    "ideSetupTaskNames": [
+                        "generateDebugAndroidTestSources"
+                    ],
+                    "desugaredMethodsFiles": [
+                        {
+                            "directory": false,
+                            "file": true,
+                            "freeSpace": 13479645184,
+                            "canonicalPath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                            "usableSpace": 13479645184,
+                            "hidden": false,
+                            "totalSpace": 278891139072,
+                            "path": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                            "name": "D8BackportedDesugaredMethods.txt",
+                            "absolute": true,
+                            "absolutePath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                            "parent": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed"
+                        }
+                    ],
+                    "bundleInfo": null,
+                    "privacySandboxSdkInfo": null,
+                    "codeShrinker": null,
+                    "generatedClassPaths": {
+                        
+                    },
+                    "signed": true,
+                    "applicationId": "com.agon.app.test",
+                    "classesFolders": [
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\javac\\debugAndroidTest\\compileDebugAndroidTestJavaWithJavac\\classes",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\intermediates\\javac\\debugAndroidTest\\compileDebugAndroidTestJavaWithJavac\\classes",
+                            "name": "classes",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\intermediates\\javac\\debugAndroidTest\\compileDebugAndroidTestJavaWithJavac\\classes",
+                            "parent": "E:\\Risk\\app\\build\\intermediates\\javac\\debugAndroidTest\\compileDebugAndroidTestJavaWithJavac"
+                        },
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debugAndroidTest",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debugAndroidTest",
+                            "name": "debugAndroidTest",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\debugAndroidTest",
+                            "parent": "E:\\Risk\\app\\build\\tmp\\kotlin-classes"
+                        },
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debugAndroidTest\\processDebugAndroidTestResources\\R.jar",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debugAndroidTest\\processDebugAndroidTestResources\\R.jar",
+                            "name": "R.jar",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debugAndroidTest\\processDebugAndroidTestResources\\R.jar",
+                            "parent": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\debugAndroidTest\\processDebugAndroidTestResources"
+                        }
+                    ],
+                    "generatedSourceFolders": [
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugAndroidTest\\out",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugAndroidTest\\out",
+                            "name": "out",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugAndroidTest\\out",
+                            "parent": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\debugAndroidTest"
+                        }
+                    ],
+                    "targetSdkVersionOverride": {
+                        "codename": null,
+                        "apiLevel": 36
+                    },
+                    "bytecodeTransformations": [
+                        
+                    ],
+                    "testInfo": {
+                        "additionalRuntimeApks": [
+                            
+                        ],
+                        "animationsDisabled": false,
+                        "instrumentedTestTaskName": "connectedDebugAndroidTest",
+                        "execution": "HOST"
+                    }
+                }
+            },
+            "desugaredMethods": [
+                {
+                    "directory": false,
+                    "file": true,
+                    "freeSpace": 13479645184,
+                    "canonicalPath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                    "usableSpace": 13479645184,
+                    "hidden": false,
+                    "totalSpace": 278891139072,
+                    "path": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                    "name": "D8BackportedDesugaredMethods.txt",
+                    "absolute": true,
+                    "absolutePath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                    "parent": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed"
+                }
+            ],
+            "name": "debug",
+            "displayName": "debug"
+        },
+        {
+            "testFixturesArtifact": null,
+            "mainArtifact": {
+                "minSdkVersion": {
+                    "codename": null,
+                    "apiLevel": 24
+                },
+                "generatedResourceFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\generated\\res\\resValues\\release",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\generated\\res\\resValues\\release",
+                        "name": "release",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\generated\\res\\resValues\\release",
+                        "parent": "E:\\Risk\\app\\build\\generated\\res\\resValues"
+                    }
+                ],
+                "compileTaskName": "compileReleaseSources",
+                "abiFilters": [
+                    
+                ],
+                "generatedAssetsFolders": [
+                    
+                ],
+                "signingConfigName": null,
+                "sourceGenTaskName": "generateReleaseSources",
+                "resGenTaskName": "generateReleaseResources",
+                "assembleTaskOutputListingFile": {
+                    "directory": false,
+                    "file": false,
+                    "freeSpace": 0,
+                    "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\release\\createReleaseApkListingFileRedirect\\redirect.txt",
+                    "usableSpace": 0,
+                    "hidden": false,
+                    "totalSpace": 0,
+                    "path": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\release\\createReleaseApkListingFileRedirect\\redirect.txt",
+                    "name": "redirect.txt",
+                    "absolute": true,
+                    "absolutePath": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\release\\createReleaseApkListingFileRedirect\\redirect.txt",
+                    "parent": "E:\\Risk\\app\\build\\intermediates\\apk_ide_redirect_file\\release\\createReleaseApkListingFileRedirect"
+                },
+                "maxSdkVersion": null,
+                "modelSyncFiles": [
+                    
+                ],
+                "assembleTaskName": "assembleRelease",
+                "ideSetupTaskNames": [
+                    "generateReleaseSources"
+                ],
+                "desugaredMethodsFiles": [
+                    {
+                        "directory": false,
+                        "file": true,
+                        "freeSpace": 13479645184,
+                        "canonicalPath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                        "usableSpace": 13479645184,
+                        "hidden": false,
+                        "totalSpace": 278891139072,
+                        "path": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                        "name": "D8BackportedDesugaredMethods.txt",
+                        "absolute": true,
+                        "absolutePath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                        "parent": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed"
+                    }
+                ],
+                "bundleInfo": {
+                    "bundleTaskName": "bundleRelease",
+                    "apkFromBundleTaskOutputListingFile": {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\apk_from_bundle_ide_redirect_file\\release\\createReleaseApksFromBundleListingFileRedirect\\redirect.txt",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\apk_from_bundle_ide_redirect_file\\release\\createReleaseApksFromBundleListingFileRedirect\\redirect.txt",
+                        "name": "redirect.txt",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\apk_from_bundle_ide_redirect_file\\release\\createReleaseApksFromBundleListingFileRedirect\\redirect.txt",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\apk_from_bundle_ide_redirect_file\\release\\createReleaseApksFromBundleListingFileRedirect"
+                    },
+                    "bundleTaskOutputListingFile": {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\bundle_ide_redirect_file\\release\\createReleaseBundleListingFileRedirect\\redirect.txt",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\bundle_ide_redirect_file\\release\\createReleaseBundleListingFileRedirect\\redirect.txt",
+                        "name": "redirect.txt",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\bundle_ide_redirect_file\\release\\createReleaseBundleListingFileRedirect\\redirect.txt",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\bundle_ide_redirect_file\\release\\createReleaseBundleListingFileRedirect"
+                    },
+                    "apkFromBundleTaskName": "extractApksForRelease"
+                },
+                "privacySandboxSdkInfo": null,
+                "codeShrinker": null,
+                "generatedClassPaths": {
+                    
+                },
+                "signed": false,
+                "applicationId": "com.agon.app",
+                "classesFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\javac\\release\\compileReleaseJavaWithJavac\\classes",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\javac\\release\\compileReleaseJavaWithJavac\\classes",
+                        "name": "classes",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\javac\\release\\compileReleaseJavaWithJavac\\classes",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\javac\\release\\compileReleaseJavaWithJavac"
+                    },
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\release",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\release",
+                        "name": "release",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\release",
+                        "parent": "E:\\Risk\\app\\build\\tmp\\kotlin-classes"
+                    },
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\kotlinToolingMetadata",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\kotlinToolingMetadata",
+                        "name": "kotlinToolingMetadata",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\kotlinToolingMetadata",
+                        "parent": "E:\\Risk\\app\\build"
+                    },
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\release\\processReleaseResources\\R.jar",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\release\\processReleaseResources\\R.jar",
+                        "name": "R.jar",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\release\\processReleaseResources\\R.jar",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\release\\processReleaseResources"
+                    }
+                ],
+                "generatedSourceFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\release\\out",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\release\\out",
+                        "name": "out",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\release\\out",
+                        "parent": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\release"
+                    }
+                ],
+                "targetSdkVersionOverride": {
+                    "codename": null,
+                    "apiLevel": 36
+                },
+                "bytecodeTransformations": [
+                    
+                ],
+                "testInfo": null
+            },
+            "androidTestArtifact": null,
+            "unitTestArtifact": {
+                "modelSyncFiles": [
+                    
+                ],
+                "assembleTaskName": "assembleReleaseUnitTest",
+                "compileTaskName": "compileReleaseUnitTestSources",
+                "ideSetupTaskNames": [
+                    "createMockableJar"
+                ],
+                "runtimeResourceFolder": {
+                    "directory": false,
+                    "file": false,
+                    "freeSpace": 0,
+                    "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\java_res\\releaseUnitTest\\processReleaseUnitTestJavaRes\\out",
+                    "usableSpace": 0,
+                    "hidden": false,
+                    "totalSpace": 0,
+                    "path": "E:\\Risk\\app\\build\\intermediates\\java_res\\releaseUnitTest\\processReleaseUnitTestJavaRes\\out",
+                    "name": "out",
+                    "absolute": true,
+                    "absolutePath": "E:\\Risk\\app\\build\\intermediates\\java_res\\releaseUnitTest\\processReleaseUnitTestJavaRes\\out",
+                    "parent": "E:\\Risk\\app\\build\\intermediates\\java_res\\releaseUnitTest\\processReleaseUnitTestJavaRes"
+                },
+                "generatedClassPaths": {
+                    
+                },
+                "classesFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\javac\\releaseUnitTest\\compileReleaseUnitTestJavaWithJavac\\classes",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\javac\\releaseUnitTest\\compileReleaseUnitTestJavaWithJavac\\classes",
+                        "name": "classes",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\javac\\releaseUnitTest\\compileReleaseUnitTestJavaWithJavac\\classes",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\javac\\releaseUnitTest\\compileReleaseUnitTestJavaWithJavac"
+                    },
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\releaseUnitTest",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\releaseUnitTest",
+                        "name": "releaseUnitTest",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\releaseUnitTest",
+                        "parent": "E:\\Risk\\app\\build\\tmp\\kotlin-classes"
+                    },
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\release\\processReleaseResources\\R.jar",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\release\\processReleaseResources\\R.jar",
+                        "name": "R.jar",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\release\\processReleaseResources\\R.jar",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\release\\processReleaseResources"
+                    }
+                ],
+                "generatedSourceFolders": [
+                    {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\releaseUnitTest\\out",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\releaseUnitTest\\out",
+                        "name": "out",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\releaseUnitTest\\out",
+                        "parent": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\releaseUnitTest"
+                    }
+                ],
+                "bytecodeTransformations": [
+                    
+                ],
+                "mockablePlatformJar": {
+                    "directory": false,
+                    "file": true,
+                    "freeSpace": 13479645184,
+                    "canonicalPath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed\\android.jar",
+                    "usableSpace": 13479645184,
+                    "hidden": false,
+                    "totalSpace": 278891139072,
+                    "path": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed\\android.jar",
+                    "name": "android.jar",
+                    "absolute": true,
+                    "absolutePath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed\\android.jar",
+                    "parent": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed"
+                }
+            },
+            "instantAppCompatible": false,
+            "testedTargetVariant": null,
+            "hostTestArtifacts": {
+                "_unit_test_": {
+                    "modelSyncFiles": [
+                        
+                    ],
+                    "assembleTaskName": "assembleReleaseUnitTest",
+                    "compileTaskName": "compileReleaseUnitTestSources",
+                    "ideSetupTaskNames": [
+                        "createMockableJar"
+                    ],
+                    "runtimeResourceFolder": {
+                        "directory": false,
+                        "file": false,
+                        "freeSpace": 0,
+                        "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\java_res\\releaseUnitTest\\processReleaseUnitTestJavaRes\\out",
+                        "usableSpace": 0,
+                        "hidden": false,
+                        "totalSpace": 0,
+                        "path": "E:\\Risk\\app\\build\\intermediates\\java_res\\releaseUnitTest\\processReleaseUnitTestJavaRes\\out",
+                        "name": "out",
+                        "absolute": true,
+                        "absolutePath": "E:\\Risk\\app\\build\\intermediates\\java_res\\releaseUnitTest\\processReleaseUnitTestJavaRes\\out",
+                        "parent": "E:\\Risk\\app\\build\\intermediates\\java_res\\releaseUnitTest\\processReleaseUnitTestJavaRes"
+                    },
+                    "generatedClassPaths": {
+                        
+                    },
+                    "classesFolders": [
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\javac\\releaseUnitTest\\compileReleaseUnitTestJavaWithJavac\\classes",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\intermediates\\javac\\releaseUnitTest\\compileReleaseUnitTestJavaWithJavac\\classes",
+                            "name": "classes",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\intermediates\\javac\\releaseUnitTest\\compileReleaseUnitTestJavaWithJavac\\classes",
+                            "parent": "E:\\Risk\\app\\build\\intermediates\\javac\\releaseUnitTest\\compileReleaseUnitTestJavaWithJavac"
+                        },
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\releaseUnitTest",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\releaseUnitTest",
+                            "name": "releaseUnitTest",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\tmp\\kotlin-classes\\releaseUnitTest",
+                            "parent": "E:\\Risk\\app\\build\\tmp\\kotlin-classes"
+                        },
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\release\\processReleaseResources\\R.jar",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\release\\processReleaseResources\\R.jar",
+                            "name": "R.jar",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\release\\processReleaseResources\\R.jar",
+                            "parent": "E:\\Risk\\app\\build\\intermediates\\compile_and_runtime_not_namespaced_r_class_jar\\release\\processReleaseResources"
+                        }
+                    ],
+                    "generatedSourceFolders": [
+                        {
+                            "directory": false,
+                            "file": false,
+                            "freeSpace": 0,
+                            "canonicalPath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\releaseUnitTest\\out",
+                            "usableSpace": 0,
+                            "hidden": false,
+                            "totalSpace": 0,
+                            "path": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\releaseUnitTest\\out",
+                            "name": "out",
+                            "absolute": true,
+                            "absolutePath": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\releaseUnitTest\\out",
+                            "parent": "E:\\Risk\\app\\build\\generated\\ap_generated_sources\\releaseUnitTest"
+                        }
+                    ],
+                    "bytecodeTransformations": [
+                        
+                    ],
+                    "mockablePlatformJar": {
+                        "directory": false,
+                        "file": true,
+                        "freeSpace": 13479645184,
+                        "canonicalPath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed\\android.jar",
+                        "usableSpace": 13479645184,
+                        "hidden": false,
+                        "totalSpace": 278891139072,
+                        "path": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed\\android.jar",
+                        "name": "android.jar",
+                        "absolute": true,
+                        "absolutePath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed\\android.jar",
+                        "parent": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\b29d08153167153fb1a208d8bdff8c43\\transformed"
+                    }
+                }
+            },
+            "experimentalProperties": {
+                
+            },
+            "runTestInSeparateProcess": false,
+            "deviceTestArtifacts": {
+                
+            },
+            "desugaredMethods": [
+                {
+                    "directory": false,
+                    "file": true,
+                    "freeSpace": 13479645184,
+                    "canonicalPath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                    "usableSpace": 13479645184,
+                    "hidden": false,
+                    "totalSpace": 278891139072,
+                    "path": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                    "name": "D8BackportedDesugaredMethods.txt",
+                    "absolute": true,
+                    "absolutePath": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed\\D8BackportedDesugaredMethods.txt",
+                    "parent": "C:\\Users\\arjun\\.gradle\\caches\\8.11.1\\transforms\\c1bdf563958920b1a5b52e7e781a56fc\\transformed"
+                }
+            ],
+            "name": "release",
+            "displayName": "release"
+        }
+    ],
+    "lintJar": null,
+    "viewBindingOptions": {
+        "enabled": false
+    },
+    "testFixturesNamespace": null,
+    "lintChecksJars": [
+        
+    ],
+    "resourcePrefix": null,
+    "javaCompileOptions": {
+        "coreLibraryDesugaringEnabled": false,
+        "sourceCompatibility": "17",
+        "encoding": "UTF-8",
+        "targetCompatibility": "17"
+    },
+    "desugarLibConfig": [
+        
+    ],
+    "androidTestNamespace": "com.agon.app.test",
+    "flags": {
+        "booleanFlagMap": {
+            "APPLICATION_R_CLASS_CONSTANT_IDS": false,
+            "TEST_R_CLASS_CONSTANT_IDS": false,
+            "JETPACK_COMPOSE": true,
+            "ML_MODEL_BINDING": false,
+            "TRANSITIVE_R_CLASS": false,
+            "UNIFIED_TEST_PLATFORM": true,
+            "USE_ANDROID_X": true,
+            "BUILD_FEATURE_ANDROID_RESOURCES": true,
+            "EXCLUDE_LIBRARY_COMPONENTS_FROM_CONSTRAINTS": false,
+            "DATA_BINDING_ENABLED": false,
+            "GENERATE_MANIFEST_CLASS": false
+        }
+    },
+    "dynamicFeatures": [
+        
+    ]
+}
